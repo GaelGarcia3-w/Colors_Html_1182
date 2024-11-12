@@ -180,27 +180,28 @@ Edgar Gael Garcia Camacho 3-W
 ![image](https://github.com/user-attachments/assets/0f4b4f55-5009-46fa-b650-60e602aae0b2) ![image](https://github.com/user-attachments/assets/2f4c8ddb-ac93-4044-a4c5-0028d3944b7d)
 
 # #9
+
 <!DOCTYPE html>
 
 <html>
 
   <body>
 
-  <p>Here is a quote from WWF's website:</p>
+  <p>Como se realizn los pollos:</p>
 
 
-<blockquote cite="http://www.worldwildlife.org/who/index.html"&gt;
+<blockquote cite="https://avicultura.com/procedimientos-de-captura-de-los-pollos/"&gt;>
 
-  For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with 
-  people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
-
-</blockquote>
+  Los pollos se recolectan de las granjas de los campos despues de recolectarlos son asesinados y decapitados para despues rostizarlos o venderlos crudos si se se suena muy mal pero asi 
+  esto.</blockquote>
 
 </body>
 
 </html>
 
-![image](https://github.com/user-attachments/assets/98eb9aa3-0351-4597-bd5e-6c6975f790da) ![image](https://github.com/user-attachments/assets/72cec1c6-a150-4e28-ac1d-cac36c038094)
+![image](https://github.com/user-attachments/assets/33d28374-8969-48b1-82f3-5cca216a309c) ![image](https://github.com/user-attachments/assets/31917915-4a04-4449-b2aa-21dc0fa12c76)
+
+
 
 # #10
 
