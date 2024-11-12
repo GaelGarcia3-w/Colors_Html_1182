@@ -179,6 +179,147 @@ Edgar Gael Garcia Camacho 3-W
 
 ![image](https://github.com/user-attachments/assets/0f4b4f55-5009-46fa-b650-60e602aae0b2) ![image](https://github.com/user-attachments/assets/2f4c8ddb-ac93-4044-a4c5-0028d3944b7d)
 
+# #9
+<!DOCTYPE html>
 
+<html>
+
+  <body>
+
+  <p>Here is a quote from WWF's website:</p>
+
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html"&gt;
+
+  For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with 
+  people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+
+</blockquote>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/98eb9aa3-0351-4597-bd5e-6c6975f790da) ![image](https://github.com/user-attachments/assets/72cec1c6-a150-4e28-ac1d-cac36c038094)
+
+# #10
+
+La etiqueta HTML <q> define una cita corta.
+
+  Los navegadores normalmente insertan comillas alrededor de las citas.
+  
+  <!DOCTYPE html>
+
+  <html>
+
+  <body>
+    
+  <p>Pollos frescos del campo y de granja.</p>
+          
+  <p>Super pollos: <q>De muy buena calidad.</q></p>
+    
+  </body>
+
+  </html>
+
+![image](https://github.com/user-attachments/assets/75b135f6-264f-4376-ab17-55de1fcc0e6b) ![image](https://github.com/user-attachments/assets/c2c81d49-f7ba-4031-b66b-f7f5582fec10)
+
+# #11
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+
+<p>La <abbr title="World Health Organization">Polleria</abbr> Los camperos 2017.</p>
+
+<p>Los mejores pollos del mundo pruebalos ya.</p>
+
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/50838229-b7ae-472f-a6f3-c8548ad5dd58) ![image](https://github.com/user-attachments/assets/dbfd550e-9eb9-4702-9116-060e92e38ff9)
+
+# #12
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+<p>Los mejores pollos del mundo pruebalos ya</p>
+
+
+<address>
+
+  Si un pollo.<br>
+
+No quieres comer:<br>
+
+Una golpisa<br>
+
+Te vamos a ofrecer<br>
+
+:V
+
+</address>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/7de55dbb-65ae-4917-873d-678796db4d4b) ![image](https://github.com/user-attachments/assets/592dfad9-d2a5-490d-be25-43621ea9056e)
+
+# #13
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+
+<p>Los mejores pollos.</p>
+
+<p>"Pollos importados del campo."</p>
+
+<br>
+
+<img 
+  src="2wCEAAkGBxMREhUSExMVExMXFxsYFRcXFxcYGBYdGxgYGBgbHxkaHCggGB4mGxkaIjEjJyorLi8uGR8zRDMsNygtLisBCgoKDg0OGxAQGy8mICUtLS0vLS8tLS0tNS0tLS0tLS0tNS0tLS0tNS0vLS0tLS0vLS0tLS01LS0tLS0tLS0tLf" >
+
+<br>
+
+<p><cite>La polleria</cite> negocio familiar 2017.</p>
+
+<img>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/44eb9308-36eb-4b1d-964b-65c4e5a1c209) ![image](https://github.com/user-attachments/assets/4de30143-bce9-4b9b-8a00-d7678ff3011c)
+
+# #14
+  <!DOCTYPE html>
+  
+  <html>
+  
+  <body>
+    
+  <p>Los mejores pollos de el mundo no lo cree pues nuestros precios estan volteados:</p>
+    
+  <bdo dir="rtl">un pollo completo de 10pz : $120</bdo>
+    
+  </body>
+  
+  </html>
+
+![image](https://github.com/user-attachments/assets/67290812-0593-4487-abb3-895d190abae7) ![image](https://github.com/user-attachments/assets/c181cf48-04b2-4e06-94f9-fbb3461842a8)
 
 
